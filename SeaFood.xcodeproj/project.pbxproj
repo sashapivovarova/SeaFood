@@ -42,7 +42,6 @@
 		5A38CAAE2CEF65B1003EFA55 = {
 			isa = PBXGroup;
 			children = (
-				5A38CACE2CEF65E6003EFA55 /* Inceptionv3.mlmodel */,
 				5A38CAB92CEF65B1003EFA55 /* SeaFood */,
 				5A38CAB82CEF65B1003EFA55 /* Products */,
 			);
@@ -59,6 +58,7 @@
 		5A38CAB92CEF65B1003EFA55 /* SeaFood */ = {
 			isa = PBXGroup;
 			children = (
+				5A38CACE2CEF65E6003EFA55 /* Inceptionv3.mlmodel */,
 				5A38CABA2CEF65B1003EFA55 /* AppDelegate.swift */,
 				5A38CABC2CEF65B1003EFA55 /* SceneDelegate.swift */,
 				5A38CABE2CEF65B1003EFA55 /* ViewController.swift */,
